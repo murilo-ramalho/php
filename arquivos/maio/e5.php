@@ -1,0 +1,7 @@
+<?php
+// Murilo ramalho da Mata - exercicio 5
+$disciplinas = array("LINGUA PORTUGUESA", " INGLES", "MATEMATICA", "HISTORIA", "FISICA", "QUIMICA", "BIOLOGIA", "EDUCAÇÃO FISICA", "GEOGRAFIA", "PROGRAMACAO WEB II", "ANALISE E PROJETO DE SISTEMAS", "DESENVOLVIMENTO DE SISTEMAS", "SISTEMAS EMBARCADOS", "BANCO DE DADOS I", "PROGRAMACAO DE APLICATIVOS MOBILE I");
+foreach($disciplinas as $materia) {
+    echo "$materia \n";
+};
+?>
